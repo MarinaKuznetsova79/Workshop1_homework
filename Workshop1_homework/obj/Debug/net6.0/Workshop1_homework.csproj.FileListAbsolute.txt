@@ -1,0 +1,15 @@
+C:\Users\Александр\Desktop\EveningSeminar\Workshop1_homework\bin\Debug\net6.0\Workshop1_homework.exe
+C:\Users\Александр\Desktop\EveningSeminar\Workshop1_homework\bin\Debug\net6.0\Workshop1_homework.deps.json
+C:\Users\Александр\Desktop\EveningSeminar\Workshop1_homework\bin\Debug\net6.0\Workshop1_homework.runtimeconfig.json
+C:\Users\Александр\Desktop\EveningSeminar\Workshop1_homework\bin\Debug\net6.0\Workshop1_homework.dll
+C:\Users\Александр\Desktop\EveningSeminar\Workshop1_homework\bin\Debug\net6.0\Workshop1_homework.pdb
+C:\Users\Александр\Desktop\EveningSeminar\Workshop1_homework\obj\Debug\net6.0\Workshop1_homework.csproj.AssemblyReference.cache
+C:\Users\Александр\Desktop\EveningSeminar\Workshop1_homework\obj\Debug\net6.0\Workshop1_homework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Александр\Desktop\EveningSeminar\Workshop1_homework\obj\Debug\net6.0\Workshop1_homework.AssemblyInfoInputs.cache
+C:\Users\Александр\Desktop\EveningSeminar\Workshop1_homework\obj\Debug\net6.0\Workshop1_homework.AssemblyInfo.cs
+C:\Users\Александр\Desktop\EveningSeminar\Workshop1_homework\obj\Debug\net6.0\Workshop1_homework.csproj.CoreCompileInputs.cache
+C:\Users\Александр\Desktop\EveningSeminar\Workshop1_homework\obj\Debug\net6.0\Workshop1_homework.dll
+C:\Users\Александр\Desktop\EveningSeminar\Workshop1_homework\obj\Debug\net6.0\refint\Workshop1_homework.dll
+C:\Users\Александр\Desktop\EveningSeminar\Workshop1_homework\obj\Debug\net6.0\Workshop1_homework.pdb
+C:\Users\Александр\Desktop\EveningSeminar\Workshop1_homework\obj\Debug\net6.0\Workshop1_homework.genruntimeconfig.cache
+C:\Users\Александр\Desktop\EveningSeminar\Workshop1_homework\obj\Debug\net6.0\ref\Workshop1_homework.dll
